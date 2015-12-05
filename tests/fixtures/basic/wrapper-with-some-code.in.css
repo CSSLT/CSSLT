@@ -1,0 +1,6 @@
+@csslt {
+    .foo {
+        bar: baz;
+    }
+}
+.test { width: 10px; }
