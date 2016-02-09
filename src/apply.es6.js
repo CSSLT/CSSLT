@@ -1,3 +1,2 @@
-export default function apply(css) {
-    return css;
+export default function apply(nodepath, decl) {
 }
